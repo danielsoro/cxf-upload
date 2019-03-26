@@ -1,7 +1,6 @@
 package org.apache.tomee.sample;
 
 import org.apache.cxf.jaxrs.ext.multipart.Attachment;
-import org.apache.cxf.jaxrs.ext.multipart.Multipart;
 
 import javax.activation.DataHandler;
 import javax.enterprise.context.ApplicationScoped;
